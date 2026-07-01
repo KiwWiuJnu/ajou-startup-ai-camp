@@ -1,0 +1,6 @@
+# 개인 기획 및 취업 준비 문서 폴더 제외
+private_docs/
+
+# OS 환경 파일 제외
+.DS_Store
+Thumbs.db
